@@ -7,6 +7,12 @@ import os
 
 
 
+try:
+    os.mkdir('files')
+except:
+    pass
+
+
 with open('data.txt') as conf:
     bot_api = (conf.readline())[:-1]
     admin_l = conf.readlines()
