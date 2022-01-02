@@ -1,1 +1,0 @@
-taskkill /IM chrome_win64.exe /f
