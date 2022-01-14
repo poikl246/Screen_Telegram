@@ -10,6 +10,8 @@
 
 Видео инструкция https://drive.google.com/file/d/1VZrqcuon9spp20P0cKGneibvSVDWbybC/view?usp=sharing
 
+СВЯТЬ С РАЗРАБОТЧИКОМ https://t.me/NikitaMosk (Телеграмм)
+
 Скачиваем архив нажав на зеленую кнопку + загрузить архив
 
 Если нет папки files, то создаем её
