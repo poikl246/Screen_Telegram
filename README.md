@@ -4,10 +4,6 @@
 НАСТРОЙКА
 Советую посмотреть еще вот этот проект https://github.com/poikl246/Freebie-browser-telegram
 
-
-ссылка  на exe файл https://drive.google.com/file/d/1LRQO528H6bWmuzP6UD82tZudVpyhRsQE/view?usp=sharing
-
-
 Видео инструкция https://drive.google.com/file/d/1VZrqcuon9spp20P0cKGneibvSVDWbybC/view?usp=sharing
 
 
